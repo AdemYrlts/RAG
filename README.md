@@ -69,7 +69,7 @@ RAG/
 ├── main.py
 ├── graph.png
 └── requirements.txt
-
+```
 ## Core Components
 
 ### graph/chains/
